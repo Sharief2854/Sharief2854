@@ -6,14 +6,25 @@
 <!-- ── ANIMATED HEADER BANNER ────────────────────────────────── -->
 <div align="center">
 
+<!-- ⏳ Note: Banner images are served by external APIs and may take a few seconds to load. -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Sharief&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Trainer&descSize=20&descAlignY=60&descColor=d0b4f7&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Sharief&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer%20%7C%20Trainer&descSize=20&descAlignY=60&descColor=d0b4f7&animation=fadeIn"
   width="100%"
-  alt="Sharief — Full Stack Developer & MERN Stack Trainer"
+  alt="⏳ Loading banner... — Sharief | MERN Full Stack Developer & Trainer"
 />
 
+<sub>⏳ <em>Images are loading from external services — please wait a moment if banners appear blank.</em></sub>
+
+<br/><br/>
+
 <!-- CUSTOMIZE: Edit the lines= parameter to change the typing animation texts -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;MERN+Stack+Trainer+%26+Mentor;Building+Scalable+End-to-End+Web+Apps;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB)](https://git.io/typing-svg)
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=MERN+Full+Stack+Developer+%26+Trainer;Building+Scalable+End-to-End+Web+Apps;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Currently+Exploring+Python+Full+Stack+%F0%9F%90%8D"
+  alt="⏳ Loading typing animation... — MERN Full Stack Developer & Trainer"
+  width="650"
+/>
+
+<br/><br/>
 
 <!-- CUSTOMIZE: Update username= if your GitHub handle changes -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Sharief2854&label=Profile+Views&color=6A0DAD&style=flat-square)
@@ -27,7 +38,7 @@
 <div align="center">
 
 ### Hi, I'm Sharief 👋
-#### Full Stack Developer &nbsp;|&nbsp; MERN Stack Trainer &nbsp;|&nbsp; Hyderabad, India 🇮🇳
+#### MERN Full Stack Developer &nbsp;|&nbsp; Trainer &nbsp;|&nbsp; Hyderabad, India 🇮🇳
 
 </div>
 
@@ -41,7 +52,7 @@ Beyond shipping products, I'm passionate about **teaching**. I run structured ME
 
 <div align="center">
 
-| 💼 &nbsp;Full Stack Developer | 🎓 &nbsp;MERN Stack Trainer | 📍 &nbsp;Hyderabad, India |
+| 💼 &nbsp;MERN Full Stack Developer | 🎓 &nbsp;MERN Stack Trainer | 📍 &nbsp;Hyderabad, India |
 |:---:|:---:|:---:|
 | 🌐 &nbsp;[**Portfolio**](https://sharief.netlify.app/) | 📬 &nbsp;[**Email**](mailto:kadapasharief786@gmail.com) | 🤝 &nbsp;Open to Remote &amp; Freelance |
 
@@ -63,6 +74,7 @@ Beyond shipping products, I'm passionate about **teaching**. I run structured ME
 <!-- ── FRONTEND ──────────────────────────────────────────────── -->
 ### 🌐 Frontend
 
+<!-- ⏳ Badges load from shields.io — may take a moment on slow connections -->
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -82,6 +94,8 @@ Beyond shipping products, I'm passionate about **teaching**. I run structured ME
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
 </p>
@@ -155,10 +169,6 @@ Beyond shipping products, I'm passionate about **teaching**. I run structured ME
 
 I work as a **MERN Stack Trainer**, guiding developers from fundamentals to full-stack proficiency. My training is practical, structured, and industry-aligned.
 
-<table>
-  <tr>
-    <td width="50%">
-
 **What I cover in training:**
 
 - ✅ Full MERN stack — MongoDB to React UI
@@ -167,9 +177,6 @@ I work as a **MERN Stack Trainer**, guiding developers from fundamentals to full
 - ✅ Authentication — JWT, sessions, protected routes
 - ✅ Deployment — Vercel, Netlify, cloud basics
 
-    </td>
-    <td width="50%">
-
 **How I teach:**
 
 - 🔨 Project-based — every concept builds something real
@@ -177,18 +184,15 @@ I work as a **MERN Stack Trainer**, guiding developers from fundamentals to full
 - 🧠 Interview prep — DSA, system design, React deep dives
 - 📋 Career support — portfolio reviews & job search strategy
 
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🌱 Currently Learning & Exploring
 
-- ⚡ **Next.js 15 App Router** — Server Components, streaming, and caching strategies.
+- 🐍 &nbsp;**Python Full Stack** — Django, REST APIs, and Python-powered backend systems *(actively learning)*
+- ⚡ &nbsp;**Next.js App Router** — Server Components, streaming, and advanced caching strategies.
 - 🏗️ &nbsp;**System Design** — Scalable architecture patterns for production full-stack apps.
 - ☁️ &nbsp;**Cloud & DevOps** — AWS (EC2, S3, Lambda) and Docker-based CI/CD pipelines.
-- 🔐 **Web Security** — JWT, OAuth 2.0, secure API design, and common vulnerability prevention.
+- 🔐 &nbsp;**Web Security** — JWT, OAuth 2.0, secure API design, and vulnerability prevention.
 
 ---
 
@@ -213,10 +217,11 @@ I work as a **MERN Stack Trainer**, guiding developers from fundamentals to full
 
 *"Write code that teaches itself — for the developer who reads it next."*
 
+<!-- ⏳ Footer banner loads from capsule-render API -->
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"
   width="100%"
-  alt="footer wave"
+  alt="⏳ Loading footer..."
 />
 
 </div>
