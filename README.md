@@ -30,35 +30,49 @@
 
 <div align="center">
 
-### Hi, I'm Sharief 👋
-#### MERN Full Stack Developer &nbsp;|&nbsp; Trainer &nbsp;|&nbsp; Hyderabad, India 🇮🇳
+### Hi there! I'm **Sharief** 👋🏽
+
+<img src="https://img.shields.io/badge/MERN%20Full%20Stack%20Developer-%236A0DAD?style=for-the-badge&logo=mongodb&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MERN%20Stack%20Trainer-%23A855F7?style=for-the-badge&logo=react&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍%20Hyderabad%2C%20India-%230EA5E9?style=for-the-badge"/>
 
 </div>
-
-<br/>
-
-I design and build production-grade web applications end-to-end — from polished, accessible front-ends to robust, scalable APIs — using the **MERN stack** (MongoDB, Express.js, React, Node.js).
-
-Beyond shipping products, I'm passionate about **teaching**. I run structured MERN training programs helping developers go from beginner to job-ready through hands-on projects and real code reviews.
 
 <br/>
 
 <div align="center">
 
-| 💼 &nbsp;MERN Full Stack Developer | 🎓 &nbsp;MERN Stack Trainer | 📍 &nbsp;Hyderabad, India |
-|:---:|:---:|:---:|
-| 🌐 &nbsp;[**Portfolio**](https://sharief.netlify.app/) | 📬 &nbsp;[**Email**](mailto:kadapasharief786@gmail.com) | 🤝 &nbsp;Open to Remote &amp; Freelance |
+| 🏷️ | Info | 🔗 |
+|:---:|:---|:---:|
+| ![Name](https://img.shields.io/badge/Name-Sharief-6A0DAD?style=flat-square) | Sharief | — |
+| ![Role](https://img.shields.io/badge/Role-Full%20Stack%20Dev%20%26%20Trainer-A855F7?style=flat-square) | MERN Full Stack Developer & Trainer | — |
+| ![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-0EA5E9?style=flat-square) | Hyderabad, India 🇮🇳 | — |
+| ![Portfolio](https://img.shields.io/badge/Portfolio-sharief.netlify.app-06B6D4?style=flat-square&logo=netlify) | Personal Portfolio | [🔗 Visit](https://sharief.netlify.app/) |
+| ![Email](https://img.shields.io/badge/Email-kadapasharief786%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white) | kadapasharief786@gmail.com | [📬 Mail](mailto:kadapasharief786@gmail.com) |
+| ![Open To](https://img.shields.io/badge/Open%20To-Remote%20%7C%20Freelance%20%7C%20Collaborations-22C55E?style=flat-square) | Remote · Freelance · Collaborations | — |
 
 </div>
 
 <br/>
 
+> 💬 *I design and build production-grade web applications end-to-end — from polished front-ends to robust, scalable APIs — using the **MERN stack**. Beyond shipping products, I run structured training programs helping developers go from beginner to job-ready.*
+
+<br/>
+
 ### 💡 What I Do
 
-- 🏗️ &nbsp;Build **end-to-end MERN stack** applications — from database schema to production deployment.
-- 🎓 &nbsp;Train developers in **React, Next.js, Node.js, MongoDB** through structured, project-based programs.
-- 🔍 &nbsp;Architect scalable solutions with clean code, REST APIs, and modern state management.
-- 💬 &nbsp;Mentor students on interview prep, portfolio building, and breaking into the tech industry.
+<div align="center">
+
+| | |
+|:---|:---|
+| 🏗️ &nbsp;**Build** | End-to-end MERN stack apps — database schema to production deployment |
+| 🎓 &nbsp;**Train** | React, Next.js, Node.js, MongoDB — structured, project-based programs |
+| 🔍 &nbsp;**Architect** | Scalable solutions with clean code, REST APIs & modern state management |
+| 💬 &nbsp;**Mentor** | Interview prep, portfolio building & breaking into the tech industry |
+
+</div>
 
 ---
 
