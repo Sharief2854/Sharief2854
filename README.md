@@ -3,19 +3,16 @@
      Customization tips are marked with CUSTOMIZE comments.
      ============================================================ -->
 
-<!-- ── HEADER — Pure text, no external image APIs, loads instantly ── -->
+<!-- ── ANIMATED HEADER BANNER ────────────────────────────────── -->
 <div align="center">
 
-<h1>👋 Hi, I'm Sharief</h1>
-
-<h3>
-  <img src="https://img.shields.io/badge/MERN-Full%20Stack%20Developer-6A0DAD?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Full Stack Developer"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MERN-Stack%20Trainer-A855F7?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack Trainer"/>
-</h3>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Sharief&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer%20%7C%20Trainer&descSize=20&descAlignY=60&descColor=d0b4f7&animation=fadeIn"
+  width="100%"
+  alt="Sharief — MERN Full Stack Developer & Trainer"
+/>
 
 <!-- CUSTOMIZE: Edit the lines= parameter to change the typing animation texts -->
-<!-- This SVG is lightweight and loads fast via CDN cache -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Building+Scalable+End-to-End+Web+Apps+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Currently+Exploring+Python+Full+Stack+%F0%9F%90%8D;Open+to+Remote+%26+Freelance+Opportunities)](https://git.io/typing-svg)
 
 <br/>
@@ -213,8 +210,10 @@ I work as a **MERN Stack Trainer**, guiding developers from fundamentals to full
 
 *"Write code that teaches itself — for the developer who reads it next."*
 
----
-
-<sub>📍 Hyderabad, India &nbsp;|&nbsp; 🌐 <a href="https://sharief.netlify.app/">sharief.netlify.app</a> &nbsp;|&nbsp; 📬 kadapasharief786@gmail.com</sub>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"
+  width="100%"
+  alt="footer wave"
+/>
 
 </div>
