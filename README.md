@@ -30,42 +30,35 @@
 
 <div align="center">
 
-### Hi there! I'm **Sharief** 👋🏽
-
-<img src="https://img.shields.io/badge/MERN%20Full%20Stack%20Developer-%236A0DAD?style=for-the-badge&logo=mongodb&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MERN%20Stack%20Trainer-%23A855F7?style=for-the-badge&logo=react&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📍%20Hyderabad%2C%20India-%230EA5E9?style=for-the-badge"/>
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sharief.netlify.app-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)](https://sharief.netlify.app/)
-&nbsp;
-[![Email](https://img.shields.io/badge/📬%20Email-kadapasharief786@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadapasharief786@gmail.com)
-&nbsp;
-[![Open To](https://img.shields.io/badge/🤝%20Open%20To-Remote%20·%20Freelance%20·%20Collabs-22C55E?style=for-the-badge)](https://github.com/Sharief2854)
+### Hi, I'm Sharief 👋
+#### MERN Full Stack Developer &nbsp;|&nbsp; Trainer &nbsp;|&nbsp; Hyderabad, India 🇮🇳
 
 </div>
 
 <br/>
 
-> 💬 *I design and build production-grade web applications end-to-end — from polished front-ends to robust, scalable APIs — using the **MERN stack**. Beyond shipping products, I run structured training programs helping developers go from beginner to job-ready.*
+I design and build production-grade web applications end-to-end — from polished, accessible front-ends to robust, scalable APIs — using the **MERN stack** (MongoDB, Express.js, React, Node.js).
+
+Beyond shipping products, I'm passionate about **teaching**. I run structured MERN training programs helping developers go from beginner to job-ready through hands-on projects and real code reviews.
+
+<br/>
+
+<div align="center">
+
+| 💼 &nbsp;MERN Full Stack Developer | 🎓 &nbsp;MERN Stack Trainer | 📍 &nbsp;Hyderabad, India |
+|:---:|:---:|:---:|
+| 🌐 &nbsp;[**Portfolio**](https://sharief.netlify.app/) | 📬 &nbsp;[**Email**](mailto:kadapasharief786@gmail.com) | 🤝 &nbsp;Open to Remote &amp; Freelance |
+
+</div>
 
 <br/>
 
 ### 💡 What I Do
 
-<div align="center">
-
-| | |
-|:---|:---|
-| 🏗️ &nbsp;**Build** | End-to-end MERN stack apps — database schema to production deployment |
-| 🎓 &nbsp;**Train** | React, Next.js, Node.js, MongoDB — structured, project-based programs |
-| 🔍 &nbsp;**Architect** | Scalable solutions with clean code, REST APIs & modern state management |
-| 💬 &nbsp;**Mentor** | Interview prep, portfolio building & breaking into the tech industry |
-
-</div>
+- 🏗️ &nbsp;Build **end-to-end MERN stack** applications — from database schema to production deployment.
+- 🎓 &nbsp;Train developers in **React, Next.js, Node.js, MongoDB** through structured, project-based programs.
+- 🔍 &nbsp;Architect scalable solutions with clean code, REST APIs, and modern state management.
+- 💬 &nbsp;Mentor students on interview prep, portfolio building, and breaking into the tech industry.
 
 ---
 
