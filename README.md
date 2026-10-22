@@ -38,20 +38,13 @@
 &nbsp;
 <img src="https://img.shields.io/badge/📍%20Hyderabad%2C%20India-%230EA5E9?style=for-the-badge"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-| 🏷️ | Info | 🔗 |
-|:---:|:---|:---:|
-| ![Name](https://img.shields.io/badge/Name-Sharief-6A0DAD?style=flat-square) | Sharief | — |
-| ![Role](https://img.shields.io/badge/Role-Full%20Stack%20Dev%20%26%20Trainer-A855F7?style=flat-square) | MERN Full Stack Developer & Trainer | — |
-| ![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-0EA5E9?style=flat-square) | Hyderabad, India 🇮🇳 | — |
-| ![Portfolio](https://img.shields.io/badge/Portfolio-sharief.netlify.app-06B6D4?style=flat-square&logo=netlify) | Personal Portfolio | [🔗 Visit](https://sharief.netlify.app/) |
-| ![Email](https://img.shields.io/badge/Email-kadapasharief786%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white) | kadapasharief786@gmail.com | [📬 Mail](mailto:kadapasharief786@gmail.com) |
-| ![Open To](https://img.shields.io/badge/Open%20To-Remote%20%7C%20Freelance%20%7C%20Collaborations-22C55E?style=flat-square) | Remote · Freelance · Collaborations | — |
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sharief.netlify.app-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)](https://sharief.netlify.app/)
+&nbsp;
+[![Email](https://img.shields.io/badge/📬%20Email-kadapasharief786@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadapasharief786@gmail.com)
+&nbsp;
+[![Open To](https://img.shields.io/badge/🤝%20Open%20To-Remote%20·%20Freelance%20·%20Collabs-22C55E?style=for-the-badge)](https://github.com/Sharief2854)
 
 </div>
 
@@ -190,16 +183,6 @@ I work as a **MERN Stack Trainer**, guiding developers from fundamentals to full
 - 🔍 Code reviews — teaching best practices, not just syntax
 - 🧠 Interview prep — DSA, system design, React deep dives
 - 📋 Career support — portfolio reviews & job search strategy
-
----
-
-## 🌱 Currently Learning & Exploring
-
-- 🐍 &nbsp;**Python Full Stack** — Django, REST APIs, and Python-powered backend systems *(actively learning)*
-- ⚡ &nbsp;**Next.js App Router** — Server Components, streaming, and advanced caching strategies.
-- 🏗️ &nbsp;**System Design** — Scalable architecture patterns for production full-stack apps.
-- ☁️ &nbsp;**Cloud & DevOps** — AWS (EC2, S3, Lambda) and Docker-based CI/CD pipelines.
-- 🔐 &nbsp;**Web Security** — JWT, OAuth 2.0, secure API design, and vulnerability prevention.
 
 ---
 
