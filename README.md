@@ -1,21 +1,21 @@
 <!-- ============================================================
      SHARIEF — GitHub Profile README
-     Customization tips are marked with <!-- CUSTOMIZE --> comments.
+     Customization tips are marked with CUSTOMIZE comments.
      ============================================================ -->
 
 <!-- ── ANIMATED HEADER BANNER ────────────────────────────────── -->
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Sharief&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Front-End%20Trainer&descSize=20&descAlignY=60&descColor=d0b4f7&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Sharief&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Trainer&descSize=20&descAlignY=60&descColor=d0b4f7&animation=fadeIn"
   width="100%"
-  alt="Sharief — MERN Stack Developer & Front-End Trainer"
+  alt="Sharief — Full Stack Developer & MERN Stack Trainer"
 />
 
-<!-- CUSTOMIZE: Update the lines= parameter below to change the typing texts -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%92%BB;Front-End+Trainer+%26+Mentor+%F0%9F%8E%93;Building+Scalable+Web+Applications+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB)](https://git.io/typing-svg)
+<!-- CUSTOMIZE: Edit the lines= parameter to change the typing animation texts -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;MERN+Stack+Trainer+%26+Mentor;Building+Scalable+End-to-End+Web+Apps;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB)](https://git.io/typing-svg)
 
-<!-- CUSTOMIZE: Update username= and label= if needed -->
+<!-- CUSTOMIZE: Update username= if your GitHub handle changes -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Sharief2854&label=Profile+Views&color=6A0DAD&style=flat-square)
 
 </div>
@@ -24,22 +24,45 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const sharief = {
-  name       : "Sharief",
-  location   : "Hyderabad, India 🇮🇳",
-  role       : ["MERN Stack Developer", "Front-End Trainer"],
-  portfolio  : "https://sharief.netlify.app/",
-  currentFocus : "Building production-grade full-stack apps & mentoring developers",
-  philosophy : "Write code that teaches itself.",
-};
-```
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
-- 🏗️  I build end-to-end web applications using the **MERN stack**.
-- 🎓  I train aspiring developers on **modern front-end technologies** — React, Next.js, TypeScript, and more.
-- 🌐  Based in **Hyderabad, India**, open to remote opportunities worldwide.
-- 🔍  Exploring advanced patterns in **Next.js App Router**, **system design**, and **cloud deployment**.
-- 💬  Ask me about React architecture, component design, or breaking into tech.
+### Hi, I'm Sharief 👋
+
+I'm a **Full Stack Developer** and **MERN Stack Trainer** based in **Hyderabad, India** 🇮🇳.
+
+I design and build production-grade web applications end-to-end — from polished, accessible front-ends to robust, scalable server-side systems — all using the **MERN stack** (MongoDB, Express.js, React, Node.js).
+
+Beyond shipping products, I'm passionate about **teaching and mentoring**. I help developers go from zero to full-stack-ready through project-based learning, hands-on code reviews, and structured MERN training programs.
+
+> _"Write code that teaches itself."_
+
+    </td>
+    <td valign="top" width="45%">
+
+### 🗂️ Quick Profile
+
+| | |
+|---|---|
+| 🏷️ **Name** | Sharief |
+| 📍 **Location** | Hyderabad, India |
+| 💼 **Role** | Full Stack Developer |
+| 🎓 **Also** | MERN Stack Trainer |
+| 🌐 **Portfolio** | [sharief.netlify.app](https://sharief.netlify.app/) |
+| 📬 **Email** | kadapasharief786@gmail.com |
+| 🤝 **Open to** | Remote · Freelance · Collaborations |
+
+    </td>
+  </tr>
+</table>
+
+### 💡 What I Do
+
+- 🏗️ &nbsp;Build **end-to-end MERN stack** applications — from database schema to production deployment.
+- 🎓 &nbsp;Train developers in **React, Next.js, Node.js, MongoDB** through structured, project-based programs.
+- 🔍 &nbsp;Architect scalable solutions with clean code, REST APIs, and modern state management.
+- 💬 &nbsp;Mentor students on interview prep, portfolio building, and breaking into the tech industry.
 
 ---
 
@@ -76,7 +99,7 @@ const sharief = {
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
@@ -104,7 +127,7 @@ const sharief = {
 
 | | |
 |---|---|
-| **Tech Stack** | `React` · `JavaScript` · `CSS` · `REST APIs` |
+| **Tech Stack** | `React` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `REST APIs` |
 | **Repository** | [github.com/Sharief2854/doctors-app-template-6](https://github.com/Sharief2854/doctors-app-template-6) |
 | **Live Demo** | [doctors-app-template-6.codegnan.app](https://doctors-app-template-6.codegnan.app/) |
 
@@ -113,76 +136,67 @@ const sharief = {
 <!-- ── PROJECT 2 ───────────────────────────────────────────── -->
 ### 📚 Chadhuvuko — Learning Management System
 
-> A full-featured LMS platform for online course delivery, student progress tracking, and interactive learning — built with a modern MERN-style architecture and Material UI.
+> A full-featured LMS platform for online course delivery, student progress tracking, and interactive learning — built with a MERN-style architecture and Material UI.
 
 | | |
 |---|---|
-| **Tech Stack** | `Next.js` · `React` · `Material UI` · `Node.js` · `MongoDB` |
-| **Repository** | <!-- CUSTOMIZE: Add repo link when available → `[Repository](https://github.com/Sharief2854/YOUR-REPO)` --> *Coming Soon* |
-| **Live Demo** | <!-- CUSTOMIZE: Add demo link when available --> *Coming Soon* |
+| **Tech Stack** | `Next.js` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Material UI` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `MongoDB` |
+| **Repository** | <!-- CUSTOMIZE: Replace with your repo URL when available --> *Coming Soon* |
+| **Live Demo** | <!-- CUSTOMIZE: Replace with your live demo URL when available --> *Coming Soon* |
 
 ---
 
 <!-- ── PROJECT 3 ───────────────────────────────────────────── -->
 ### 💻 Coding Exam Portal
 
-> An online coding practice and examination platform where students can solve problems, submit solutions, and receive automated evaluation — designed to support technical training workflows.
+> An online coding practice and examination platform where students can solve problems, submit code, and receive automated evaluation — purpose-built to support MERN training workflows.
 
 | | |
 |---|---|
-| **Tech Stack** | `React` · `Node.js` · `Express.js` · `MongoDB` |
-| **Repository** | <!-- CUSTOMIZE: Add repo link when available --> *Coming Soon* |
-| **Live Demo** | <!-- CUSTOMIZE: Add demo link when available --> *Coming Soon* |
+| **Tech Stack** | `React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` |
+| **Repository** | <!-- CUSTOMIZE: Replace with your repo URL when available --> *Coming Soon* |
+| **Live Demo** | <!-- CUSTOMIZE: Replace with your live demo URL when available --> *Coming Soon* |
 
 ---
 
-## 📊 GitHub Statistics
+## 🎓 MERN Stack Trainer & Mentor
 
-<div align="center">
+I work as a **MERN Stack Trainer**, guiding developers from fundamentals to full-stack proficiency. My training is practical, structured, and industry-aligned.
 
-<!-- CUSTOMIZE: Change theme= to your preference (dark, radical, merko, tokyonight, etc.) -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Sharief2854&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"
-  alt="Sharief's GitHub Stats"
-  height="175"
-/>
-&nbsp;
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharief2854&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"
-  alt="Top Languages"
-  height="175"
-/>
+<table>
+  <tr>
+    <td width="50%">
 
-<br/>
+**What I cover in training:**
 
-<img
-  src="https://streak-stats.demolab.com/?user=Sharief2854&theme=midnight-purple&hide_border=true"
-  alt="GitHub Streak"
-/>
+- ✅ Full MERN stack — MongoDB to React UI
+- ✅ REST API design with Express.js & Node.js
+- ✅ React patterns — hooks, context, Redux Toolkit
+- ✅ Authentication — JWT, sessions, protected routes
+- ✅ Deployment — Vercel, Netlify, cloud basics
 
-</div>
+    </td>
+    <td width="50%">
 
----
+**How I teach:**
 
-## 🎓 Front-End Trainer & Mentor
+- 🔨 Project-based — every concept builds something real
+- 🔍 Code reviews — teaching best practices, not just syntax
+- 🧠 Interview prep — DSA, system design, React deep dives
+- 📋 Career support — portfolio reviews & job search strategy
 
-I work as a **Front-End Trainer**, helping developers build practical skills in modern web development. My training approach focuses on:
-
-- ✅ **Hands-on project-based learning** — every concept tied to a real-world use case.
-- ✅ **Code reviews & debugging sessions** — teaching problem-solving, not just syntax.
-- ✅ **Interview preparation** — DOM, async JS, React internals, system design basics.
-- ✅ **Career guidance** — portfolio building, resume reviews, and job search strategies.
-
-> *"The best way to learn is to build something you'd actually use."*
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌱 Currently Learning & Exploring
 
-- ⚡ **Next.js 15 App Router** — Server Components, Streaming, and advanced caching.
-- 🏗️  **System Design** — Scalable architecture patterns for full-stack applications.
-- ☁️  **Cloud & DevOps** — AWS services (EC2, S3, Lambda) and Docker-based deployments.
-- 🔐  **Web Security** — Auth best practices, JWT, OAuth 2.0, and secure API design.
+- ⚡ **Next.js 15 App Router** — Server Components, streaming, and caching strategies.
+- 🏗️ &nbsp;**System Design** — Scalable architecture patterns for production full-stack apps.
+- ☁️ &nbsp;**Cloud & DevOps** — AWS (EC2, S3, Lambda) and Docker-based CI/CD pipelines.
+- 🔐 **Web Security** — JWT, OAuth 2.0, secure API design, and common vulnerability prevention.
 
 ---
 
@@ -190,10 +204,10 @@ I work as a **Front-End Trainer**, helping developers build practical skills in 
 
 <div align="center">
 
-<!-- CUSTOMIZE: Replace YOUR-LINKEDIN-URL with your actual LinkedIn profile URL -->
+<!-- CUSTOMIZE: Replace YOUR-LINKEDIN-URL with your LinkedIn profile slug (e.g. /in/sharief-kadapa) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://sharief.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=netlify&logoColor=white)](https://sharief.netlify.app/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharief2854)
 &nbsp;
@@ -205,12 +219,12 @@ I work as a **Front-End Trainer**, helping developers build practical skills in 
 
 <div align="center">
 
-*"Code is not just instructions for machines — it's communication between developers. Write it clearly."*
+*"Write code that teaches itself — for the developer who reads it next."*
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"
   width="100%"
-  alt="footer"
+  alt="footer wave"
 />
 
 </div>
