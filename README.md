@@ -1,119 +1,171 @@
-<div align="center">
-  <img src="assets/header.svg" width="100%" alt="Sharief - Frontend and Full-Stack Web Developer" />
-</div>
+::: {align="center"}
+```{=html}
+<!-- Animated header: replace the text below if you'd like a different tagline -->
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sharief+%F0%9F%91%8B;MERN+Stack+Developer;Front-End+Trainer;Building+Projects+%7C+Helping+Developers+Grow" alt="Typing SVG" />`{=html}
 
-<p align="center">
-  <a href="https://github.com/Sharief2854?tab=followers"><img src="https://img.shields.io/github/followers/Sharief2854?style=for-the-badge&logo=github&color=1b1646&labelColor=0b1020" alt="Followers" /></a>
-  <a href="https://github.com/Sharief2854?tab=repositories"><img src="https://img.shields.io/badge/Focus-React%20%26%20Next.js-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=0b1020" alt="Focus" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-c084fc?style=for-the-badge&labelColor=0b1020" alt="Open to collaboration" />
+`<br/>`{=html}
+
+### MERN Stack Developer · Front-End Trainer · Lifelong Learner
+
+I build practical web applications, explore modern development tools,
+and help aspiring developers turn concepts into working projects.
+
+`<br/>`{=html}
+
+`<a href="https://github.com/Sharief2854">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
+`</a>`{=html} `<a href="https://sharief.netlify.app/">`{=html}
+`<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>`{=html}
+`</a>`{=html}
+`<!-- Replace YOUR_LINKEDIN_USERNAME with your LinkedIn profile username -->`{=html}
+`<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`</a>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 👨‍💻 About Me
+
+-   💻 I'm a **MERN Stack Developer and Front-End Trainer** based in
+    Hyderabad, India.
+-   🧩 I enjoy building practical applications with **React, Node.js,
+    Express, and MongoDB**.
+-   🎓 I train and mentor learners in front-end development, project
+    building, and interview preparation.
+-   🛠️ I like turning ideas into usable products, from learning
+    platforms to coding tools.
+-   🤖 I'm exploring AI-assisted development and ways to make software
+    development more effective.
+-   🌱 I believe the best way to learn technology is to **build, share,
+    and keep improving**.
+
+------------------------------------------------------------------------
+
+## 🧰 Tech Stack
+
+### Frontend
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,materialui,vite" alt="Frontend technologies"/>`{=html}
+```{=html}
 </p>
+```
+### Backend & Database
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<div align="center">
-  <img src="assets/terminal.svg" width="90%" alt="About Sharief" />
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🔭 What I'm Up To
-
-| 🌱 Exploring | 🎯 Care about | 🤝 Open to |
-| :-- | :-- | :-- |
-| Next.js, advanced React architecture, server-side state management | Clean code, modern UI/UX, accessibility, problem solving | Open-source projects and creative web solutions |
-
-💬 **Ask me about:** JavaScript, React, responsive web design, frontend development.
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,postman,npm,vercel,netlify&perline=10" alt="Tech stack" />
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,spring" alt="Backend and database technologies"/>`{=html}
+```{=html}
 </p>
+```
+### Tools & Platforms
 
-<details>
-<summary><b>See it grouped</b></summary>
-<br/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify,aws,docker" alt="Tools and platforms"/>`{=html}
+```{=html}
+</p>
+```
+> Some technologies are part of my ongoing learning journey. My hands-on
+> experience varies by tool and project.
 
-| Area | Technologies |
-| :-- | :-- |
-| 🌐 Frontend | React.js, Next.js, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3 |
-| 🧠 Languages | JavaScript, TypeScript |
-| ⚙️ Backend | Node.js, Express.js |
-| 🗄️ Databases | MongoDB, MySQL |
-| 🧰 Tools | Git, GitHub, VS Code, Postman, npm |
-| ☁️ Deploy | Vercel, Netlify |
-
-</details>
-
-<img src="assets/divider.svg" width="100%" alt="" />
+------------------------------------------------------------------------
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 1. Doctors App --- React
 
-### 🌟 [reactBootcampProject](https://github.com/Sharief2854/reactBootcampProject)
-React bootcamp app showcasing core React patterns and components.
+A responsive doctors/healthcare interface built as a front-end project.
 
-`React` `JavaScript` `CSS`
+-   **Tech:** React, JavaScript, CSS
+-   **Live Demo:** [View the
+    app](https://doctors-app-template-6.codegnan.app/)
+-   **Source Code:** [GitHub
+    repository](https://github.com/Sharief2854/doctors-app-template-6)
 
-</td>
-<td width="50%" valign="top">
+### 2. Chadhuvuko --- Learning Management System
 
-### 🎨 [Front-End](https://github.com/Sharief2854/Front-End)
-Responsive UI templates and frontend component designs.
+A learning platform concept for managing batches, courses, learning
+content, and student access.
 
-`HTML5` `CSS3` `JavaScript`
+-   **Tech:** Next.js, React, Material UI, Node.js, MongoDB
+-   **Repository / Demo:**
+    `<!-- Add your repository or live demo URL here -->`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 3. Coding Exam Portal
 
-### 📝 [blog](https://github.com/Sharief2854/blog)
-Blogging platform with clean post reading and interactive design.
+A coding practice and examination portal concept with an online code
+execution workflow.
 
-`JavaScript` `Web`
+-   **Tech:** React, Node.js, API integration
+-   **Repository / Demo:**
+    `<!-- Add your repository or live demo URL here -->`
 
-</td>
-<td width="50%" valign="top">
+### More Projects
 
-### 🧠 [quizapp2](https://github.com/Sharief2854/quizapp2)
-Interactive quiz app with score tracking and responsive layout.
+Explore my repositories for more experiments, learning projects, and web
+applications.
 
-`JavaScript` `DOM` `CSS`
+👉 **[Browse all my
+repositories](https://github.com/Sharief2854?tab=repositories)**
 
-</td>
-</tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
+------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 
-<details>
-<summary><b>Click to load my stats</b></summary>
-<br/>
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sharief2854&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sharief's GitHub stats"/>`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharief2854&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>`{=html}
+:::
 
-<div align="center">
-  <img width="420" height="195" src="https://github-readme-stats.vercel.app/api?username=Sharief2854&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
-  <img width="320" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharief2854&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
-</div>
+------------------------------------------------------------------------
 
-</details>
+## 🎯 Current Focus
 
-<img src="assets/divider.svg" width="100%" alt="" />
+-   Building and improving full-stack web applications.
+-   Strengthening system design and backend architecture fundamentals.
+-   Exploring TypeScript, Docker, and AI-assisted development workflows.
+-   Helping learners build projects and prepare for developer
+    interviews.
 
-## 📬 Let's Connect
+------------------------------------------------------------------------
 
-<p align="center">
-  <a href="mailto:kadapasharief786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Sharief2854"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Replace YOUR-USERNAME with your real LinkedIn handle, or delete this line -->
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+## 👨‍🏫 Training & Mentoring
 
-<p align="center"><i>Got an idea or a project? Let's build something great together. ⭐</i></p>
+I enjoy helping students and aspiring developers strengthen their
+foundations through:
+
+-   Front-end development: HTML, CSS, JavaScript, React, and responsive
+    UI.
+-   Project-based learning and practical coding tasks.
+-   Git and GitHub workflows.
+-   Mock interviews and interview-readiness practice.
+
+------------------------------------------------------------------------
+
+## 🤝 Let's Connect
+
+I'm happy to connect with developers, educators, and teams interested in
+web development, learning, and building useful products.
+
+-   🌐 **Portfolio:**
+    [sharief.netlify.app](https://sharief.netlify.app/)
+-   💻 **GitHub:** [@Sharief2854](https://github.com/Sharief2854)
+-   💼 **LinkedIn:** [Add your LinkedIn
+    profile](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+-   ✉️ **Email:**
+    `<!-- Add a professional contact email if you want it public -->`
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### 💡 Build consistently. Learn continuously. Share generously.
+
+`<img src="https://komarev.com/ghpvc/?username=Sharief2854&style=flat-square&color=8B5CF6" alt="Profile views"/>`{=html}
+:::
