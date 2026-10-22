@@ -188,33 +188,12 @@ Beyond shipping products, I'm passionate about **teaching**. I run structured ME
 
 ---
 
-## 🎓 MERN Stack Trainer & Mentor
-
-I work as a **MERN Stack Trainer**, guiding developers from fundamentals to full-stack proficiency. My training is practical, structured, and industry-aligned.
-
-**What I cover in training:**
-
-- ✅ Full MERN stack — MongoDB to React UI
-- ✅ REST API design with Express.js & Node.js
-- ✅ React patterns — hooks, context, Redux Toolkit
-- ✅ Authentication — JWT, sessions, protected routes
-- ✅ Deployment — Vercel, Netlify, cloud basics
-
-**How I teach:**
-
-- 🔨 Project-based — every concept builds something real
-- 🔍 Code reviews — teaching best practices, not just syntax
-- 🧠 Interview prep — DSA, system design, React deep dives
-- 📋 Career support — portfolio reviews & job search strategy
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
 <!-- CUSTOMIZE: Replace YOUR-LINKEDIN-URL with your LinkedIn profile slug (e.g. /in/sharief-kadapa) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharief-k-89a046169)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=netlify&logoColor=white)](https://sharief.netlify.app/)
 &nbsp;
