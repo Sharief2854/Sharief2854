@@ -1,0 +1,36 @@
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal card about Sharief">
+  <defs>
+    <style>
+      .t { font-family: 'Courier New', monospace; font-size: 20px; fill: #e2e8f0; opacity: 0; animation: show 0.5s ease-out forwards; }
+      .p { fill: #4ade80; }
+      .c { fill: #61dafb; }
+      .o { fill: #fbbf24; }
+      .d1 { animation-delay: 0.3s; } .d2 { animation-delay: 1s; } .d3 { animation-delay: 1.7s; }
+      .d4 { animation-delay: 2.4s; } .d5 { animation-delay: 3.1s; } .d6 { animation-delay: 3.8s; }
+      .d7 { animation-delay: 4.5s; } .d8 { animation-delay: 5.2s; }
+      @keyframes show { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: translateX(0); } }
+      .cur { fill: #61dafb; opacity: 0; animation: show 0.1s 5.8s forwards, blink 1s 5.8s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="896" height="336" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M2 16 a14 14 0 0 1 14 -14 h868 a14 14 0 0 1 14 14 v36 h-896 z" fill="#161b22"/>
+  <circle cx="30" cy="28" r="8" fill="#ff5f56"/>
+  <circle cx="58" cy="28" r="8" fill="#ffbd2e"/>
+  <circle cx="86" cy="28" r="8" fill="#27c93f"/>
+  <text x="450" y="34" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">sharief@github: ~/about</text>
+
+  <text class="t d1" x="30" y="90"><tspan class="p">$</tspan> whoami</text>
+  <text class="t d2" x="30" y="120"><tspan class="c">sharief</tspan> (he/him)</text>
+
+  <text class="t d3" x="30" y="165"><tspan class="p">$</tspan> cat role.txt</text>
+  <text class="t d4" x="30" y="195"><tspan class="o">Frontend &amp; Full-Stack Web Developer</tspan></text>
+
+  <text class="t d5" x="30" y="240"><tspan class="p">$</tspan> cat stack.txt</text>
+  <text class="t d6" x="30" y="270"><tspan class="c">React</tspan> | <tspan class="c">Next.js</tspan> | <tspan class="c">TypeScript</tspan> | <tspan class="c">Node.js</tspan> | <tspan class="c">MongoDB</tspan></text>
+
+  <text class="t d7" x="30" y="312"><tspan class="p">$</tspan> echo $FOCUS</text>
+  <text class="t d8" x="260" y="312"><tspan class="o">clean code + modern UI + good coffee</tspan></text>
+  <rect class="cur" x="30" y="322" width="12" height="3"/>
+</svg>

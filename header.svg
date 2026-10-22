@@ -1,0 +1,49 @@
+<svg width="1000" height="270" viewBox="0 0 1000 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sharief - Frontend and Full-Stack Web Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#1b1646"/>
+      <stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#61dafb"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#61dafb" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#61dafb" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .code { font-family: 'Courier New', monospace; font-weight: 700; fill: #61dafb; opacity: 0.18; }
+      .f1 { animation: float 6s ease-in-out infinite; }
+      .f2 { animation: float 8s ease-in-out infinite reverse; }
+      .f3 { animation: float 7s ease-in-out infinite 1s; }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+      .name { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 92px; letter-spacing: 10px; fill: url(#name); animation: rise 1.2s ease-out both; }
+      .sub { font-family: 'Courier New', monospace; font-size: 24px; fill: #e2e8f0; animation: rise 1.6s ease-out both; }
+      .cursor { fill: #61dafb; animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+      .orbit { transform-origin: 500px 135px; animation: spin 24s linear infinite; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="270" rx="18" fill="url(#bg)"/>
+  <ellipse cx="500" cy="135" rx="380" ry="120" fill="url(#glow)"/>
+
+  <g class="orbit" opacity="0.35">
+    <ellipse cx="500" cy="135" rx="420" ry="105" fill="none" stroke="#61dafb" stroke-width="1" stroke-dasharray="4 10"/>
+    <circle cx="920" cy="135" r="5" fill="#c084fc"/>
+  </g>
+
+  <text class="code f1" x="60"  y="80"  font-size="54">&lt;/&gt;</text>
+  <text class="code f2" x="130" y="215" font-size="44">{ }</text>
+  <text class="code f3" x="840" y="85"  font-size="50">( )</text>
+  <text class="code f1" x="800" y="225" font-size="46">=&gt;</text>
+  <text class="code f2" x="420" y="38"  font-size="30">&lt;div/&gt;</text>
+
+  <text class="name" x="500" y="140" text-anchor="middle">SHARIEF</text>
+  <text class="sub" x="500" y="195" text-anchor="middle">Frontend &amp; Full-Stack Web Developer</text>
+  <rect class="cursor" x="838" y="176" width="12" height="24"/>
+</svg>
