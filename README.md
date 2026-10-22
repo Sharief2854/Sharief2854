@@ -24,38 +24,30 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
+<div align="center">
 
 ### Hi, I'm Sharief 👋
+#### Full Stack Developer &nbsp;|&nbsp; MERN Stack Trainer &nbsp;|&nbsp; Hyderabad, India 🇮🇳
 
-I'm a **Full Stack Developer** and **MERN Stack Trainer** based in **Hyderabad, India** 🇮🇳.
+</div>
 
-I design and build production-grade web applications end-to-end — from polished, accessible front-ends to robust, scalable server-side systems — all using the **MERN stack** (MongoDB, Express.js, React, Node.js).
+<br/>
 
-Beyond shipping products, I'm passionate about **teaching and mentoring**. I help developers go from zero to full-stack-ready through project-based learning, hands-on code reviews, and structured MERN training programs.
+I design and build production-grade web applications end-to-end — from polished, accessible front-ends to robust, scalable APIs — using the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
-> _"Write code that teaches itself."_
+Beyond shipping products, I'm passionate about **teaching**. I run structured MERN training programs helping developers go from beginner to job-ready through hands-on projects and real code reviews.
 
-    </td>
-    <td valign="top" width="45%">
+<br/>
 
-### 🗂️ Quick Profile
+<div align="center">
 
-| | |
-|---|---|
-| 🏷️ **Name** | Sharief |
-| 📍 **Location** | Hyderabad, India |
-| 💼 **Role** | Full Stack Developer |
-| 🎓 **Also** | MERN Stack Trainer |
-| 🌐 **Portfolio** | [sharief.netlify.app](https://sharief.netlify.app/) |
-| 📬 **Email** | kadapasharief786@gmail.com |
-| 🤝 **Open to** | Remote · Freelance · Collaborations |
+| 💼 &nbsp;Full Stack Developer | 🎓 &nbsp;MERN Stack Trainer | 📍 &nbsp;Hyderabad, India |
+|:---:|:---:|:---:|
+| 🌐 &nbsp;[**Portfolio**](https://sharief.netlify.app/) | 📬 &nbsp;[**Email**](mailto:kadapasharief786@gmail.com) | 🤝 &nbsp;Open to Remote &amp; Freelance |
 
-    </td>
-  </tr>
-</table>
+</div>
+
+<br/>
 
 ### 💡 What I Do
 
