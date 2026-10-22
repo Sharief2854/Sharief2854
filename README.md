@@ -119,42 +119,72 @@ Beyond shipping products, I'm passionate about **teaching**. I run structured ME
 
 ## 🚀 Featured Projects
 
+> 🔒 Some projects are in private repositories. Source code is available upon request.
+
+---
+
 <!-- ── PROJECT 1 ───────────────────────────────────────────── -->
-### 🏥 Doctors App
+### 📚 Chaduvuko — Learning Management System
 
-> A React-based healthcare interface enabling patients to browse doctors by specialty, view profiles, and book appointments — built with a clean, responsive UI.
-
-| | |
-|---|---|
-| **Tech Stack** | `React` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `REST APIs` |
-| **Repository** | [github.com/Sharief2854/doctors-app-template-6](https://github.com/Sharief2854/doctors-app-template-6) |
-| **Live Demo** | [doctors-app-template-6.codegnan.app](https://doctors-app-template-6.codegnan.app/) |
-
----
-
-<!-- ── PROJECT 2 ───────────────────────────────────────────── -->
-### 📚 Chadhuvuko — Learning Management System
-
-> A full-featured LMS platform for online course delivery, student progress tracking, and interactive learning — built with a MERN-style architecture and Material UI.
-
-| | |
-|---|---|
-| **Tech Stack** | `Next.js` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Material UI` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `MongoDB` |
-| **Repository** | <!-- CUSTOMIZE: Replace with your repo URL when available --> *Coming Soon* |
-| **Live Demo** | <!-- CUSTOMIZE: Replace with your live demo URL when available --> *Coming Soon* |
-
----
-
-<!-- ── PROJECT 3 ───────────────────────────────────────────── -->
-### 💻 Coding Exam Portal
-
-> An online coding practice and examination platform where students can solve problems, submit code, and receive automated evaluation — purpose-built to support MERN training workflows.
+> A full-featured LMS platform for structured online learning — covering course management, student progress tracking, assessments, and interactive content delivery. Built for real training environments.
 
 | | |
 |---|---|
 | **Tech Stack** | `React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` |
-| **Repository** | <!-- CUSTOMIZE: Replace with your repo URL when available --> *Coming Soon* |
-| **Live Demo** | <!-- CUSTOMIZE: Replace with your live demo URL when available --> *Coming Soon* |
+| **Repository** | 🔒 Private Repository |
+| **Live Demo** | <!-- CUSTOMIZE: Add your Chaduvuko live URL here --> *Coming Soon* |
+
+---
+
+<!-- ── PROJECT 2 ───────────────────────────────────────────── -->
+### 💬 WhatsApp Automation
+
+> An automation tool that handles WhatsApp messaging workflows — including scheduled messages, auto-replies, and bulk messaging. Designed to save time and streamline communication at scale.
+
+| | |
+|---|---|
+| **Tech Stack** | `React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` |
+| **Repository** | 🔒 Private Repository |
+| **Live Demo** | <!-- CUSTOMIZE: Add live URL if available --> *Coming Soon* |
+
+---
+
+<!-- ── PROJECT 3 ───────────────────────────────────────────── -->
+### ⚡ Thunder Board
+
+> A fast, interactive project management dashboard for tracking tasks, progress, and team workflows. Built with a focus on speed, clarity, and a clean developer-friendly UI.
+
+| | |
+|---|---|
+| **Tech Stack** | `React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` |
+| **Repository** | 🔒 Private Repository |
+| **Live Demo** | <!-- CUSTOMIZE: Add live URL if available --> *Coming Soon* |
+
+---
+
+<!-- ── PROJECT 4 ───────────────────────────────────────────── -->
+### 🧰 Work Easy
+
+> A productivity web app that simplifies day-to-day work management — featuring task tracking, reminders, and an intuitive interface designed to keep teams organised and workflows running smoothly.
+
+| | |
+|---|---|
+| **Tech Stack** | `React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` |
+| **Repository** | 🔒 Private Repository |
+| **Live Demo** | <!-- CUSTOMIZE: Add live URL if available --> *Coming Soon* |
+
+---
+
+<!-- ── PROJECT 5 ───────────────────────────────────────────── -->
+### 🎬 YouTube Ad Skipper — Browser Extension
+
+> A lightweight browser extension that automatically detects and skips YouTube ads, giving users an uninterrupted viewing experience — built with vanilla JavaScript and Chrome Extension APIs.
+
+| | |
+|---|---|
+| **Tech Stack** | `JavaScript` &nbsp;·&nbsp; `Chrome Extension APIs` &nbsp;·&nbsp; `HTML` &nbsp;·&nbsp; `CSS` |
+| **Repository** | 🔒 Private Repository |
+| **Chrome Web Store** | <!-- CUSTOMIZE: Add store link if published --> *Coming Soon* |
 
 ---
 
