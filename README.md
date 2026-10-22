@@ -119,72 +119,72 @@ Beyond shipping products, I'm passionate about **teaching**. I run structured ME
 
 ## 🚀 Featured Projects
 
-> 🔒 Some projects are in private repositories. Source code is available upon request.
+> 🔒 Some projects are private repositories — source code available upon request.
 
 ---
 
 <!-- ── PROJECT 1 ───────────────────────────────────────────── -->
 ### 📚 Chaduvuko — Learning Management System
 
-> A full-featured LMS platform for structured online learning — covering course management, student progress tracking, assessments, and interactive content delivery. Built for real training environments.
+> A full-featured LMS platform with course management, student progress tracking, QR-based attendance, AI integration, and interactive assessments — built for real training environments.
 
 | | |
 |---|---|
-| **Tech Stack** | `React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` |
+| **Tech Stack** | `React 19` &nbsp;·&nbsp; `Material UI` &nbsp;·&nbsp; `Framer Motion` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `JWT` &nbsp;·&nbsp; `Google Auth` |
 | **Repository** | 🔒 Private Repository |
-| **Live Demo** | <!-- CUSTOMIZE: Add your Chaduvuko live URL here --> *Coming Soon* |
+| **Live Demo** | [chaduvuko.vercel.app](https://chaduvuko.vercel.app/) |
 
 ---
 
 <!-- ── PROJECT 2 ───────────────────────────────────────────── -->
-### 💬 WhatsApp Automation
+### 💬 WhatsApp Automation Hub — Desktop App
 
-> An automation tool that handles WhatsApp messaging workflows — including scheduled messages, auto-replies, and bulk messaging. Designed to save time and streamline communication at scale.
+> A Windows desktop application that automates WhatsApp messaging workflows — bulk messaging via Excel import, scheduled messages, auto-replies, and real-time QR login. Built with Electron + Node.js.
 
 | | |
 |---|---|
-| **Tech Stack** | `React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` |
+| **Tech Stack** | `Electron` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `whatsapp-web.js` &nbsp;·&nbsp; `Socket.io` &nbsp;·&nbsp; `XLSX` |
 | **Repository** | 🔒 Private Repository |
-| **Live Demo** | <!-- CUSTOMIZE: Add live URL if available --> *Coming Soon* |
+| **Platform** | 🖥️ Windows Desktop App |
 
 ---
 
 <!-- ── PROJECT 3 ───────────────────────────────────────────── -->
-### ⚡ Thunder Board
+### ⚡ Thunder Board — Digital Whiteboard Desktop App
 
-> A fast, interactive project management dashboard for tracking tasks, progress, and team workflows. Built with a focus on speed, clarity, and a clean developer-friendly UI.
+> An offline-first digital whiteboard and teaching tool for developers and trainers — featuring freehand drawing, code syntax highlighting, OCR text recognition, and presentation tools. Built with Electron + React.
 
 | | |
 |---|---|
-| **Tech Stack** | `React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` |
-| **Repository** | 🔒 Private Repository |
-| **Live Demo** | <!-- CUSTOMIZE: Add live URL if available --> *Coming Soon* |
+| **Tech Stack** | `Electron` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Tailwind CSS` &nbsp;·&nbsp; `Prism.js` &nbsp;·&nbsp; `Tesseract.js` |
+| **Repository** | [github.com/Sharief2854/thunder-board](https://github.com/Sharief2854/thunder-board) |
+| **Platform** | 🖥️ Windows Desktop App |
 
 ---
 
 <!-- ── PROJECT 4 ───────────────────────────────────────────── -->
-### 🧰 Work Easy
+### 🧰 Work Easy — Workspace Launcher Desktop App
 
-> A productivity web app that simplifies day-to-day work management — featuring task tracking, reminders, and an intuitive interface designed to keep teams organised and workflows running smoothly.
+> A one-click workspace and app template launcher for developers — instantly opens all your tools, terminals, and project files in one click. Eliminates repetitive setup at the start of every work session.
 
 | | |
 |---|---|
-| **Tech Stack** | `React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` |
-| **Repository** | 🔒 Private Repository |
-| **Live Demo** | <!-- CUSTOMIZE: Add live URL if available --> *Coming Soon* |
+| **Tech Stack** | `Electron` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Tailwind CSS` &nbsp;·&nbsp; `Vite` |
+| **Repository** | [github.com/Sharief2854/workEasy](https://github.com/Sharief2854/workEasy) |
+| **Platform** | 🖥️ Windows Desktop App |
 
 ---
 
 <!-- ── PROJECT 5 ───────────────────────────────────────────── -->
-### 🎬 YouTube Ad Skipper — Browser Extension
+### 🎬 YouTube Auto-Skip & Smart Ad Skipper — Browser Extension
 
-> A lightweight browser extension that automatically detects and skips YouTube ads, giving users an uninterrupted viewing experience — built with vanilla JavaScript and Chrome Extension APIs.
+> A lightweight Chrome extension that automatically skips YouTube ads, accelerates unskippable ads, mutes ad audio, and closes banner ads — giving users a seamless, uninterrupted viewing experience.
 
 | | |
 |---|---|
-| **Tech Stack** | `JavaScript` &nbsp;·&nbsp; `Chrome Extension APIs` &nbsp;·&nbsp; `HTML` &nbsp;·&nbsp; `CSS` |
+| **Tech Stack** | `JavaScript` &nbsp;·&nbsp; `Chrome Extension APIs (Manifest V3)` &nbsp;·&nbsp; `HTML` &nbsp;·&nbsp; `CSS` |
 | **Repository** | 🔒 Private Repository |
-| **Chrome Web Store** | <!-- CUSTOMIZE: Add store link if published --> *Coming Soon* |
+| **Platform** | 🌐 Chrome Browser Extension |
 
 ---
 
